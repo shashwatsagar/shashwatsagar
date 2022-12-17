@@ -2,9 +2,7 @@
 - 👋 Hi, I’m @shashwatsagar. I am a Data Engineer with a zeal to learn new technologies and take on new challenges.
 - 👀 I’m interested in programming and analysis
 - 🌱 I’m currently learning AWS
-- 📫 How to reach me ...
-
-<br>Add me on LinkedIn :)
+- 📫 Add me on LinkedIn :)
 
 
 ## 🌐 Socials:
